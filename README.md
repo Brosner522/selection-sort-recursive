@@ -1,4 +1,4 @@
-## Day 5: Recursive Selection Sort
+### Day 5: Recursive Selection Sort
 
 **Fork and then clone me!**
 
